@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning FullStack Developement
 - 💞️ I’m looking to collaborate on some cybersecurity and programming company
 - 📫 How to reach me mail to **Later**
-**------------------------------------------------------------------------------------**
+- **------------------------------------------------------------------------------------**
 - 👋 Hola, soy @akaInt-Code
 - 👀 Me interesa trabajar en mi propia empresa
 - 🌱 Actualmente estoy aprendiendo Desarrollo FullStack 
